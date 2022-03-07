@@ -61,6 +61,6 @@ student -> Search courses
 ---
 
 student -> Courses
-![image](https://user-images.githubusercontent.com/75763817/157055347-e8fa1bc4-83b0-4a94-939c-673aa246ca6e.png)
+![image](https://user-images.githubusercontent.com/75763817/157055626-3e8e391c-d5f2-414a-b97e-4e06e9eafa99.png)
 
 ---
